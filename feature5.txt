@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is the feature5.txt in develop branch
+=======
+This is the file for feature5.5xt testconflict
+>>>>>>> fcd2acd6c5539727f4cc5d88412ff18833cc05b7
