@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+ this is file from develop branch
+=======
+Hello this test for conflict
+>>>>>>> testconflict
