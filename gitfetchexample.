@@ -1,0 +1,10 @@
+This is how git fetch will and we use it 
+
+get fetch is to see the latest changes in the github/remote repository but it wont download to the local repository.
+
+git merge it will download the latest changes from remote repository to local machine.
+
+get pull = git fetch + git merge
+
+
+
